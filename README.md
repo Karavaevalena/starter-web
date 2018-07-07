@@ -5,7 +5,9 @@ showing how to use GIT and Github together.
 
 ## Introdution
 
-Sample website with plenty of files for demos
+This is example is to show different parts
+of the Git repository and carious commands
+using a web project.
 
 ## Purpose
 
