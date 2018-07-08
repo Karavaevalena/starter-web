@@ -23,6 +23,8 @@ file system.
 
 ## How To Contribute
 
+Please folk this repository and them issue PullRequesrts for review.
+
 ### Copyright
 
 2018 Git.Training.
